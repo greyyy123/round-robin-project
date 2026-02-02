@@ -64,6 +64,7 @@ This project is suitable for:
 
 ## 👤 Author
 Suba P
+Indhumathi R
 Computer Science Student  
 
 ---
